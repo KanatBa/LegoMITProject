@@ -1,0 +1,12 @@
+Home Page
+1. As a user I should be  able to got to lego website, should see Lego LOGO on top.
+2. As a user I should have a title  'LEGO.com US - Inspire and develop the builders of tomorrow'
+3. As a user I should be able to see Menu: 'SHOP','PRODUCTS','SUPPORT','GAMES','LEGO® LIFE','VIDEOS','FOR KIDS' on tope of page
+4. As a user I should be able to see click Menus and should be able to go different webpages.
+5. As a user I should click SHOP menu and see warning messege regarding age and see two buttons. 
+6. As a user I should be able to see 5 images running on top as a slide.
+7. As a user I should be able to see Video on main page with proper height and width.
+8. As a user I should be able to see site map list down : Customer Service','Building Instructions','Replacement Parts','Contact Us','Product Recalls'
+9. As a user I should see list of on map list with font color code #4a4a4a.
+10. As a user I should be able to click site map list items and go navigate to different web pages.
+11. As a user I should see Contries and Langues in down drop down Menu, and change Country/ Language  accordingly. 

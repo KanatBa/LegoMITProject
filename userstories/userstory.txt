@@ -1,0 +1,14 @@
+    User stories for ForKIDS page in lego.com
+
+1. As a user I should be able to see LOGO at top of the page and when clicked should go to Lego Home page.
+    a.Check and verify LOGO image is Displayed.
+    b.When clicked shoudl go to LEGOHome page.
+    
+2. As a user I should be able to see 5 Menu images at the top of the page. 
+    a.Check top 5 images are Displayed,
+    b.Verify they are they links on tag.
+4. As a user I should be able to see 22 images as Game Menu, and click to see each game categories. 
+    a.Check 22 images are displayed and has links inside.
+    b.Verify each image is clickable. 
+4. As a user I should be able to click on controller image and see 17 images as Games donw below.
+    a. Should check 17 images displayed.
